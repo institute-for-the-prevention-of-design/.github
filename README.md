@@ -1,4 +1,4 @@
-The Institute for the Prevention of Design is an imaginary organizatin dedicated to:
+The Institute for the Prevention of Design is an imaginary organization dedicated to:
 - Preventing design
 - Designing prevention
 
