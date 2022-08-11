@@ -2,4 +2,5 @@ The Institute for the Prevention of Design is an imaginary organization dedicate
 - Preventing design
 - Designing prevention
 
-People join by imagining their membership, and doing stuff.
+People imagine their membership, and do stuff.
+Always free.
